@@ -10,3 +10,6 @@ to run the project one has to do the following things:
 * install all the required python packages by ``` pip install -r requirements.txt ```
 * run the main application or GUI based simple classifier by ``` python combined_for_detection.py ```
 * load the sample audio(preferred .wav files of short 4 sec clips, as the audio files of the dataset are .wav file) and see the result in shell
+
+### demo of the GUI
+![](https://github.com/Safat99/audio_classifier_of_urbansound8k_dataset/blob/main/GUI%20screenshot.png)
