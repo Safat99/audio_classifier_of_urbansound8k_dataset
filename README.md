@@ -13,3 +13,6 @@ To run the project one has to do the following things:
 
 ### demo of the GUI
 ![](https://github.com/Safat99/audio_classifier_of_urbansound8k_dataset/blob/main/GUI%20screenshot.png)
+
+## For More Details:
+For more details like from making single artificial neurtron to audio extractions, all the codes will be found in [this](https://github.com/Safat99/audio_processing) repository. 
