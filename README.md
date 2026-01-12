@@ -12,7 +12,12 @@ To run the project one has to do the following things:
 * load the sample audio(preferred .wav files of short 4 sec clips, as the audio files of the dataset are .wav file) and see the result in shell
 
 ### demo of the GUI
-![](https://github.com/Safat99/audio_classifier_of_urbansound8k_dataset/blob/main/GUI%20screenshot.png)
+<p align="center">
+  <a href="https://github.com/Safat99/audio_classifier_of_urbansound8k_dataset/blob/main/GUI_screenshot.png">
+    <img src="https://github.com/Safat99/audio_classifier_of_urbansound8k_dataset/blob/main/GUI_screenshot.png" width="600">
+  </a><br>
+  <em>GUI of the UrbanSound8K Audio Classifier</em>
+</p>
 
 ## For More Details:
 For more details like from making single artificial neurtron to audio extractions, all the codes will be found in [this](https://github.com/Safat99/audio_processing) repository. 
